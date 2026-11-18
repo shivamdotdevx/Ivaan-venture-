@@ -1,0 +1,19 @@
+{
+  "name": "Ivvan Venture",
+  "short_name": "Ivvan",
+  "description": "Real Estate · Trust · Value",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#123c30",
+  "theme_color": "#123c30",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
